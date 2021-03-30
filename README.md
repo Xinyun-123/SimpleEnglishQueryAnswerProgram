@@ -1,1 +1,4 @@
 # SimpleEnglishQueryAnswerProgram
+
+input style:
+
